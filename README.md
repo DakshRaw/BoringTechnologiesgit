@@ -1,0 +1,2 @@
+# BoringTechnologiesgit
+GitHub Pages
